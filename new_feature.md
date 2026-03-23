@@ -1,1 +1,2 @@
-This is new feature
+
+This is the true new feature now!
